@@ -1,2 +1,3 @@
-# mini-weather-app-g476
-Automated issue comment bot repository
+# Mini Weather App G476
+
+Automated issue comment bot repository.
